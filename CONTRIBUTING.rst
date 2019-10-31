@@ -79,7 +79,7 @@ Ready to contribute? Here's how to set up `pangaea-ops` for local development.
 5. When you're done making changes, check that your changes pass flake8 and the
    tests, including testing other Python versions with tox::
 
-    $ flake8 pangaea_ops tests
+    $ flake8 pangaeaops tests
     $ python setup.py test or pytest
     $ tox
 
@@ -111,7 +111,7 @@ Tips
 
 To run a subset of tests::
 
-$ pytest tests.test_pangaea_ops
+$ pytest tests.test_pangaeaops
 
 
 Deploying

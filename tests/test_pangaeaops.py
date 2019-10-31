@@ -1,14 +1,14 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-"""Tests for `pangaea_ops` package."""
+"""Tests for `pangaeaops` package."""
 
 import pytest
 
 from click.testing import CliRunner
 
-from pangaea_ops import pangaea_ops
-from pangaea_ops import cli
+from pangaeaops import pangaeaops
+from pangaeaops import cli
 
 
 @pytest.fixture
@@ -32,7 +32,7 @@ def test_command_line_interface():
     runner = CliRunner()
     result = runner.invoke(cli.main)
     assert result.exit_code == 0
-    assert 'pangaea_ops.cli.main' in result.output
+    assert 'pangaeaops.cli.main' in result.output
     help_result = runner.invoke(cli.main, ['--help'])
     assert help_result.exit_code == 0
     assert '--help  Show this message and exit.' in help_result.output

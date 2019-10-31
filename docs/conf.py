@@ -14,7 +14,7 @@ import os
 import sys
 sys.path.insert(0, os.path.abspath('..'))
 
-import pangaea_ops
+import pangaeaops
 
 # -- Project information -----------------------------------------------------
 
@@ -23,7 +23,7 @@ copyright = u"2019, Eugene Kim"
 author = u"Eugene Kim"
 
 # The full version, including alpha/beta/rc tags
-release = pangaea_ops.__version__
+release = pangaeaops.__version__
 
 
 # -- General configuration ---------------------------------------------------

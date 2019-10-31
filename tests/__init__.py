@@ -1,3 +1,3 @@
 # -*- coding: utf-8 -*-
 
-"""Unit test package for pangaea_ops."""
+"""Unit test package for pangaeaops."""
