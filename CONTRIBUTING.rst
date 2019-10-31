@@ -57,7 +57,7 @@ If you are proposing a feature:
 Get Started!
 ------------
 
-Ready to contribute? Here's how to set up `pangaea_ops` for local development.
+Ready to contribute? Here's how to set up `pangaea-ops` for local development.
 
 1. Fork the `py-pangaea-ops` repo on GitHub.
 2. Clone your fork locally::

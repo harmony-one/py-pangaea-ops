@@ -3,8 +3,8 @@ pangaea-ops
 ===========
 
 
-.. image:: https://img.shields.io/pypi/v/pangaea_ops.svg
-        :target: https://pypi.python.org/pypi/pangaea_ops
+.. image:: https://img.shields.io/pypi/v/pangaea-ops.svg
+        :target: https://pypi.python.org/pypi/pangaea-ops
 
 .. image:: https://img.shields.io/travis/harmony-one/py-pangaea-ops.svg
         :target: https://travis-ci.org/harmony-one/py-pangaea-ops

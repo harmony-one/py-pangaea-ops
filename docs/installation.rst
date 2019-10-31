@@ -12,7 +12,7 @@ To install pangaea-ops, run this command in your terminal:
 
 .. code-block:: console
 
-    $ pip install pangaea_ops
+    $ pip install pangaea-ops
 
 This is the preferred method to install pangaea-ops, as it will always install the most recent stable release.
 

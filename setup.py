@@ -34,15 +34,15 @@ setup(
     description="pangaea-ops is a collection of operational support tools for Pangaea – the Harmony testnet.",
     entry_points={
         'console_scripts': [
-            'pangaea_ops=pangaea_ops.cli:main',
+            'pangaea-ops=pangaea_ops.cli:main',
         ],
     },
     install_requires=requirements,
     license="MIT license",
     long_description=readme + '\n\n' + history,
     include_package_data=True,
-    keywords='pangaea_ops',
-    name='pangaea_ops',
+    keywords='pangaea-ops',
+    name='pangaea-ops',
     packages=find_packages(include=['pangaea_ops', 'pangaea_ops.*']),
     setup_requires=setup_requirements,
     test_suite='tests',
