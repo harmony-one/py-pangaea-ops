@@ -25,5 +25,5 @@ deploy:
     secure: PLEASE_REPLACE_ME
   on:
     tags: true
-    repo: harmony-one/pangaea_ops
+    repo: harmony-one/py-pangaea-ops
     python: 3.7

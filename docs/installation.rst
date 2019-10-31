@@ -32,13 +32,13 @@ You can either clone the public repository:
 
 .. code-block:: console
 
-    $ git clone git://github.com/harmony-one/pangaea_ops
+    $ git clone git://github.com/harmony-one/py-pangaea-ops
 
 Or download the `tarball`_:
 
 .. code-block:: console
 
-    $ curl -OJL https://github.com/harmony-one/pangaea_ops/tarball/master
+    $ curl -OJL https://github.com/harmony-one/py-pangaea-ops/tarball/master
 
 Once you have a copy of the source, you can install it with:
 
@@ -47,5 +47,5 @@ Once you have a copy of the source, you can install it with:
     $ python setup.py install
 
 
-.. _Github repo: https://github.com/harmony-one/pangaea_ops
-.. _tarball: https://github.com/harmony-one/pangaea_ops/tarball/master
+.. _Github repo: https://github.com/harmony-one/py-pangaea-ops
+.. _tarball: https://github.com/harmony-one/py-pangaea-ops/tarball/master
